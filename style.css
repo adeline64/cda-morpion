@@ -1,0 +1,34 @@
+#btn
+ {
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+table {
+    margin: auto;
+}
+
+table tr {
+    background-color: blue;
+   
+}
+
+table tr td {
+    background-color: darkgreen;
+    width: 110px;
+    height: 110px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+#carre-1 {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+#carre-1, #carre-2, #carre-3, #carre-4, #carre-5, #carre-6, #carre-7, #carre-8, #carre-9 {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
